@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ds2482
+D Single-Channel 1-Wire Master
+$ENDCMP
+#
+#End Doc Library
